@@ -1,0 +1,16 @@
+{
+  "name": "nputop-ts",
+  "version": "1.0.0",
+  "description": "TypeScript version of nputop - Intel NPU monitoring tool",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": ["npu", "intel", "monitoring", "typescript"],
+  "author": "David Montgomery",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.5.0"
+  }
+}
