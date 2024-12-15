@@ -1,6 +1,20 @@
 # nputop-ts
 
+**Status:** Pre-alpha prototype — expect incomplete features, rough edges, and limited functionality.
+
 TypeScript version of nputop - A monitoring tool for Intel NPU (Neural Processing Unit). This is a TypeScript port of the original [nputop](https://github.com/DMontgomery40/nputop) Python tool.
+
+## ⚠️ Important Warning
+
+This is an experimental prototype and is **NOT PRODUCTION READY**. Use at your own risk and expect:
+- Incomplete features
+- Potential bugs
+- Limited error handling
+- Possible system-specific issues
+
+## Acknowledgements
+
+This project was inspired by and based on code from [ZoLArk173/nputop](https://github.com/ZoLArk173/nputop). Thanks for the inspiration and groundwork!
 
 ## Features
 
