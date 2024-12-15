@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.DS_Store
+*.js
+!jest.config.js
+npm-debug.log*
